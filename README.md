@@ -1,0 +1,2 @@
+# experimental_repo
+Git is dangerous, and not knowing what you are doing, you could end up making a mess and corrupt the repo. This experimental repo allows me to run commands and experiment with git without caring whether it will break or not. Usually I use this repo to run commands which I am not sure what they do so I can learn all the possible consequences. I run commands here sometimes before running them in a shared environment or group project.
